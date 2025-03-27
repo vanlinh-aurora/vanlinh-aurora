@@ -23,14 +23,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Persist+Without+Fear+of+Failure"></a>
 </p>
 
-<div align="center" height=500>
-  <img align="left" height=500 src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-  <div align="right" height=500>
-    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api?username=vanlinhtruongdang&show_icons=true&&card_width=400&theme=gotham"/>
+<div align="center" width=auto height=500>
+  <img align="left" width=40% height=auto src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <div align="right" width=60% height=auto>
+    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api?username=vanlinhtruongdang&card_width=400&show_icons=true&theme=gotham"/>
     <br></br>
-    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanlinhtruongdang&card_width=438&theme=gotham"/>
+    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanlinhtruongdang&card_width=438&&theme=gotham"/>
   </div>
 </div>
+
+<br></br>
 
 <div align="center">
   <a href="https://skillicons.dev">
