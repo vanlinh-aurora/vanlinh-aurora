@@ -24,11 +24,11 @@
 </p>
 
 <div align="center" width=auto height=500>
-  <img align="left" width=40% height=auto src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-  <div align="right" width=60% height=auto>
-    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api?username=vanlinhtruongdang&card_width=400&show_icons=true&theme=gotham"/>
+  <img align="left" width=45% height=auto src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <div align="right" width=55% height=auto>
+    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api?username=vanlinhtruongdang&card_width=450&show_icons=true&theme=gotham"/>
     <br></br>
-    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanlinhtruongdang&card_width=438&&theme=gotham"/>
+    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanlinhtruongdang&card_width=450&&theme=gotham"/>
   </div>
 </div>
 
