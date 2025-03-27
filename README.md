@@ -23,8 +23,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Persist+Without+Fear+of+Failure"></a>
 </p>
 
-<div id="picture", align="center">
-  <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+<div align="center" height=500>
+  <img align="left" height=500 src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <div align="right" height=500>
+    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api?username=vanlinhtruongdang&show_icons=true&&card_width=400&theme=gotham"/>
+    <br></br>
+    <img align="center" height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanlinhtruongdang&card_width=438&theme=gotham"/>
+  </div>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,pytorch,tensorflow,arduino,docker,stackoverflow,vscode,linux,&perline=11" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
